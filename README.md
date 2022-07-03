@@ -3,6 +3,6 @@ In this repository, you can familiarize yourself with the My Bike landing page. 
 
 [DEMO LINK](https://dasha-chekmariova.github.io/my-bike/)
 
-[Figma](https://www.figma.com/file/Ujp7bCFuvuJlkn8TSbQPSZ/Kickstarter_FE-students?node-id=0%3A1)
+[Figma](https://www.figma.com/file/Ic3SlZjkATYaS7uTifZAIk/BIKE)
 
 technologies: HTML, SCSS, BEM
